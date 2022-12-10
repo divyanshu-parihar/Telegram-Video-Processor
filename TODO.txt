@@ -1,0 +1,10 @@
+-- first part --
+
+1. Ask user location of their video
+2. Ask user time of their video
+3. Ask user if the video needs to be blurred completely or partially
+4. Receive a video file from user
+5. Get metadata of the video
+6. Save video and metadata into a database
+7. Remove video metadata
+8. Upload back the video without metadata
